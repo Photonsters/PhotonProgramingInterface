@@ -17,12 +17,11 @@ The standart will define the type of transfer file and focus on the intended out
 
 the output are transfered how?
 
-Bo
+**Bo**
 
-Standard out
-Or a progress log file...
+Standard out or a progress log file...
 
-Ivan
+**Ivan**
 
 Not sure about python, but usually if you create some process you can listen to its standard output, we should create some rules for how should this output be tagged
 I think of four kinds of messages
